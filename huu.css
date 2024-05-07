@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(235, 232, 232);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: grey;
+    margin-top:50px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tex1{
+    font-size: x-large;
+    text-align: center;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pil1{
+    position: relative;
+    background-color: rgb(140, 140, 236);
+    height: 600px;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.tex2{
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    margin-top: 50px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.tex3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 70px;
+    margin-top: 20px; 
+}
+.hr1{
+    width: 300px;
+    border-radius: 1px;
+    margin-top: 1px;
+}
+.tex4{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+.button{
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 40px;
+    color: rgb(140, 140, 236);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tex5{
+    margin-top: -20px;
+}
+.pil2{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin-top: -570px;
+    margin-left: 380px;
+    border-radius: 30px;
+}
+.tex6{
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(107, 107, 107);
+    text-align: center;
+    margin-top: 50px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.hr2{
+    width: 300px;
+    border-radius: 1px;
+    margin-top: 1px;
+}
+.tex7{
+    color: rgb(107, 107, 107);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    margin-top: 10px; 
+}
+.tex8{
+    color: rgb(107, 107, 107);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+.button2{
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 30px;
+    background-color: rgb(140, 140, 236);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tex9{
+    margin-top: -20px;
+    color: white;
+}
+.hr3{
+    width: 300px;
+    border-radius: 1px;
+    margin-top: 1px;
+    margin-top: -30px;
+}
+.pil3{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin-top: -515px;
+    margin-left: 1120px;
+    border-radius: 30px;
+}
